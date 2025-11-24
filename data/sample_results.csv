@@ -1,0 +1,6 @@
+Aircraft Name,Static Margin (%),Lift Coefficient (Cl),Stall Speed (m/s),Takeoff Feasible
+Boeing 737,10.8,0.420,62.4,true
+Cessna 172,6.5,0.345,48.7,true
+RC Trainer Model,4.2,0.510,21.9,false
+Glider Class-18,12.3,0.290,55.1,true
+Experimental UAV,2.8,0.625,17.4,false
