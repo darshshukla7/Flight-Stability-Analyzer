@@ -74,12 +74,6 @@ AFSPA/
 ├── data/
 │   └── sample_results.csv
 │
-├── diagrams/
-│   └── use_case.png
-│   └── class_diagram.png
-│   └── sequence_diagram.png
-│   └── workflow.png
-│
 ├── README.md
 └── statement.md
 ```
